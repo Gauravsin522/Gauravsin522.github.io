@@ -2,7 +2,7 @@
 
 > Transforming raw data into actionable insights through analysis, visualization, and storytelling.
 
-🔗 **Portfolio:** [gauravsin522.github.io](https://gauravsin522.github.io/) &nbsp;|&nbsp; 📧 [gauravsin333@gmail.com](mailto:gauravsin333@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/gaurav-singh522/) &nbsp;|&nbsp; 🐙 [GitHub](https://github.com/Gauravsin522)
+🔗 **Portfolio:** 🌐 **Portfolio:** [gauravsin522.github.io](https://gauravsin522.github.io/)|&nbsp; 📧 [gauravsin333@gmail.com](mailto:gauravsin333@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/gaurav-singh522/) &nbsp;|&nbsp; 🐙 [GitHub](https://github.com/Gauravsin522)
 
 ---
 
